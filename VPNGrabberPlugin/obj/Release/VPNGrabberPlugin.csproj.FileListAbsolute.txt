@@ -1,0 +1,10 @@
+C:\Users\zack3r\source\repos\VPNGrabberPlugin\bin\Release\VPNGrabberPlugin.dll
+C:\Users\zack3r\source\repos\VPNGrabberPlugin\bin\Release\VPNGrabberPlugin.pdb
+C:\Users\zack3r\source\repos\VPNGrabberPlugin\bin\Release\Orcus.Plugins.dll
+C:\Users\zack3r\source\repos\VPNGrabberPlugin\bin\Release\Orcus.Shared.dll
+C:\Users\zack3r\source\repos\VPNGrabberPlugin\bin\Release\de\Orcus.Plugins.resources.dll
+C:\Users\zack3r\source\repos\VPNGrabberPlugin\obj\Release\VPNGrabberPlugin.csproj.AssemblyReference.cache
+C:\Users\zack3r\source\repos\VPNGrabberPlugin\obj\Release\VPNGrabberPlugin.csproj.CoreCompileInputs.cache
+C:\Users\zack3r\source\repos\VPNGrabberPlugin\obj\Release\VPNGrabb.16965EEB.Up2Date
+C:\Users\zack3r\source\repos\VPNGrabberPlugin\obj\Release\VPNGrabberPlugin.dll
+C:\Users\zack3r\source\repos\VPNGrabberPlugin\obj\Release\VPNGrabberPlugin.pdb
